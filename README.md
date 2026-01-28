@@ -17,24 +17,10 @@
 ---
 
 ### 🦢 From Paper to Python
-**"How a single misaligned fold led me to code."**
 
 Before I wrote my first line of Python, I ran a **graphic design business** and was obsessed with **Origami**. I loved the visual creativity, but I hated the permanence: if you crease the paper wrong, the model is ruined. 
 
 **That limitation is exactly what drew me to Software Engineering.** I realized that coding is the ultimate design tool: it allows me to build complex systems (like origami) and beautiful interfaces (like graphic design), but with the power to debug and iterate endlessly.
-
-Today, I treat every project like a piece of art:
-* **User-First:** My design background ensures I prioritize experience and accessibility.
-* **Precision:** My origami discipline means I obsess over clean, structured code.
-
----
-
-### 🔭 What I'm Up To
-* **Current Goal:** I am actively seeking **Software Engineering Internships**! 
-* **School:** Honors BSc in Computer Science @ Western University (Dean's Honor List).
-* **Recent Wins:**
-  * 🥉 **3rd Place @ SheHacks** for *TedTalks* (AI-powered emotional support teddy bear).
-  * 🥈 **2nd Place @ MsaHacks** for *Khushu* (EEG brainwave mindfulness tracker).
 
 ---
 
@@ -67,6 +53,15 @@ Today, I treat every project like a piece of art:
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+---
+
+### 🔭 What I'm Up To
+* **Current Goal:** I am actively seeking **Software Engineering Internships**! 
+* **School:** Honors BSc in Computer Science @ Western University (Dean's Honor List).
+* **Recent Wins:**
+  * 🥉 **3rd Place @ SheHacks** for *TedTalks* (AI-powered emotional support teddy bear).
+  * 🥈 **2nd Place @ MsaHacks** for *Khushu* (EEG brainwave mindfulness tracker).
 
 ---
 
