@@ -18,9 +18,9 @@
 
 ### 🦢 From Paper to Python
 
-Before I wrote my first line of Python, I ran a **graphic design business** and was obsessed with **Origami**. I loved the visual creativity, but I hated the permanence: if you crease the paper wrong, the model is ruined. 
+Before I wrote my first line of Python, I ran a **graphic design business** and was obsessed with **Art**. I loved the visual creativity, but I hated the permanence: if you do something wrong, the model is ruined. 
 
-**That limitation is exactly what drew me to Software Engineering.** I realized that coding is the ultimate design tool: it allows me to build complex systems (like origami) and beautiful interfaces (like graphic design), but with the power to debug and iterate endlessly.
+**That limitation is exactly what drew me to Software Engineering.** I realized that coding is the ultimate design tool: it allows me to build complex systems and beautiful interfaces, but with the power to debug and iterate endlessly.
 
 ---
 
